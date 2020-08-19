@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SeersRooftopScript">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="SeersRooftopScript.jar">
+      <element id="module-output" name="SeersRooftopScript" />
+    </root>
+  </artifact>
+</component>
